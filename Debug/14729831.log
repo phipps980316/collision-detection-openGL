@@ -1,0 +1,73 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  application.cpp
+  circle.cpp
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\include\coreMath.h(144,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  collisionDetector.cpp
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\circle.cpp(13,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\include\coreMath.h(144,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionDetector.cpp(34,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionDetector.cpp(40,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionDetector.cpp(45,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionDetector.cpp(77,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionDetector.cpp(84,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionDetector.cpp(92,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionDetector.cpp(115,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionDetector.cpp(121,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionDetector.cpp(127,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionDetector.cpp(150,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionDetector.cpp(157,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionDetector.cpp(166,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionDetector.cpp(187,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionDetector.cpp(197,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionDetector.cpp(234,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionDetector.cpp(236,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionDetector.cpp(267,40): warning C4018: '<': signed/unsigned mismatch
+  collisionResolver.cpp
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionDetector.cpp(269,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\include\coreMath.h(144,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  convexPolygon.cpp
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\collisionResolver.cpp(45,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\include\coreMath.h(144,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\convexPolygon.cpp(7,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  collisionDetail.cpp
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\convexPolygon.cpp(13,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  quadTree.cpp
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\include\coreMath.h(144,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\include\coreMath.h(144,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\quadTree.cpp(69,21): warning C4018: '>': signed/unsigned mismatch
+  shapeDemo.cpp
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\quadTree.cpp(73,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeDemo.cpp(9,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeDemo.cpp(25,86): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeDemo.cpp(25,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeDemo.cpp(28,83): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeDemo.cpp(28,83): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeDemo.cpp(31,82): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeDemo.cpp(31,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeDemo.cpp(34,95): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeDemo.cpp(34,95): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeDemo.cpp(37,91): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeDemo.cpp(37,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeDemo.cpp(40,91): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeDemo.cpp(40,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeDemo.cpp(47,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeDemo.cpp(57,28): warning C4018: '<': signed/unsigned mismatch
+  shapeGenerator.cpp
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeDemo.cpp(59,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\include\coreMath.h(144,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  shapeWorld.cpp
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeGenerator.cpp(34,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\include\coreMath.h(144,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeWorld.cpp(4,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeWorld.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+  border.cpp
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shapeWorld.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+  shape.cpp
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\include\coreMath.h(144,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\include\coreMath.h(144,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\src\shape.cpp(65,18): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  LINK : program database C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\Debug\14729831.pdb missing; performing full link
+  14729831.vcxproj -> C:\Users\Jon Phipps\Desktop\14729831\Assignment1\Assignment1\14729831\..\Debug\14729831.exe
